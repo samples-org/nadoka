@@ -1,3 +1,5 @@
+
+#test
 # Nadoka: IRC Client server program.
 
 Written by SASADA Koichi <ko1 at atdot.net>
