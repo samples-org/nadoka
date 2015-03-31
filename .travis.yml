@@ -17,3 +17,8 @@ rvm:
 
 script: ruby check-syntax.rb
 
+notifications:
+ irc:
+  pull_requests: true
+  channels:
+    - "chat.freenode.net#test-irc"
